@@ -1,0 +1,31 @@
+
+{
+   "Global" :
+   {
+     "regions":[
+      {  
+        "region":
+          {
+          
+           "terraform_var_file": "terraform.tfvars"
+          },
+            "resource_group":
+            {
+               "resource_names": [
+                  "resource_name_01",
+                   "resource_name_02"
+                  
+               ]
+           },
+             "storage_account":[
+            
+               "storage_account01",
+               "Storage_account02"
+                  
+               ]
+           }
+          
+       
+ ]
+    
+}
